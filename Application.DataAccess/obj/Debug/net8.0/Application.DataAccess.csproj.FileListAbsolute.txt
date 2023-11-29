@@ -1,0 +1,5 @@
+C:\Users\SEETARAM\source\repos\Application\Application.DataAccess\obj\Debug\net8.0\Application.DataAccess.csproj.AssemblyReference.cache
+C:\Users\SEETARAM\source\repos\Application\Application.DataAccess\obj\Debug\net8.0\Application.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEETARAM\source\repos\Application\Application.DataAccess\obj\Debug\net8.0\Application.DataAccess.AssemblyInfoInputs.cache
+C:\Users\SEETARAM\source\repos\Application\Application.DataAccess\obj\Debug\net8.0\Application.DataAccess.AssemblyInfo.cs
+C:\Users\SEETARAM\source\repos\Application\Application.DataAccess\obj\Debug\net8.0\Application.DataAccess.csproj.CoreCompileInputs.cache

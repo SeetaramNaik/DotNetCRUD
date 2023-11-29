@@ -1,0 +1,12 @@
+C:\Users\SEETARAM\source\repos\Application\Application.Models\bin\Debug\net8.0\Application.Models.deps.json
+C:\Users\SEETARAM\source\repos\Application\Application.Models\bin\Debug\net8.0\Application.Models.dll
+C:\Users\SEETARAM\source\repos\Application\Application.Models\bin\Debug\net8.0\Application.Models.pdb
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\Application.Models.csproj.AssemblyReference.cache
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\Application.Models.AssemblyInfoInputs.cache
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\Application.Models.AssemblyInfo.cs
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\Application.Models.csproj.CoreCompileInputs.cache
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\Application.Models.dll
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\refint\Application.Models.dll
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\Application.Models.pdb
+C:\Users\SEETARAM\source\repos\Application\Application.Models\obj\Debug\net8.0\ref\Application.Models.dll
